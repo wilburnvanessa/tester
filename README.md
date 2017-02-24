@@ -1,4 +1,4 @@
-# Bloomingdales
+# Bloomingdales and Macy's 
 
 Bloomingdale's is an American chain of luxury department stores owned by Macy's, Inc. Founded in 1861, its primary competitors are Saks Fifth Avenue, Lord & Taylor, Nordstrom, and Neiman Marcus. It is best known for its large selection of designer brands and pricey merchandise.
 
